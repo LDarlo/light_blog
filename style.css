@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+    color: rgb(41, 38, 38);
+    background-color: rgb(223, 241, 241);
+}
+
+.img{
+    text-align: center;
+}
+.title{
+    font-size: 70px;
+}
+
+.body{
+    font-size: 30px;
+    text-align: center;
+}
+
+h1{
+    color: rgb(231, 78, 78);
+}
